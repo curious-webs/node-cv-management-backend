@@ -1,0 +1,3 @@
+node_modules/
+routes/friends.js
+models/user_friends.js
